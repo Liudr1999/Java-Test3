@@ -34,8 +34,7 @@ class Choose extends Course{}
 
 class Drop{}
 ```
-我将课程分为两个类，一个是Choose类，用于学生的选课；一个是Drop类，用于学生的退课。  
-其中，我把Choose类继承Course类，而Drop类没有继承。  
+我将课程分为两个类，一个是Choose类，用于学生的选课；一个是Drop类，用于学生的退课。其中，我把Choose类继承Course类，而Drop类没有继承。  
   
 2、定义的变量  
 （1）、Person类
