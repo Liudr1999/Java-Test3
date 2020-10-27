@@ -35,9 +35,9 @@ class Choose extends Course{}
 class Drop{}
 ```
 我将课程分为两个类，一个是Choose类，用于学生的选课；一个是Drop类，用于学生的退课。  
-其中，我把Choose类继承Course类，而Drop类没有继承。
+其中，我把Choose类继承Course类，而Drop类没有继承。  
   
-2、定义的变量
+2、定义的变量  
 （1）、Person类
 ```
     	int id;
@@ -46,7 +46,7 @@ class Drop{}
 	String course;
 	String sclass;
 ```
-在Person类中，我定义了如上几个变量。其中的sclass变量是针对学生的班级变量。
+在Person类中，我定义了如上几个变量。其中的sclass变量是针对学生的班级变量。  
 （2）、Course类
 ```
 	int Cid;
